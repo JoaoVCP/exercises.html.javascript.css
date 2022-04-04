@@ -1,0 +1,12 @@
+<meta charset="UTF-8">
+<script>
+	
+	var n = 3;
+
+    document.write("O resultado da fórmula é : " + n * (10 / 20)  );
+	document.write("<br>");
+	
+    var minhaIdade = 20;
+
+    document.write("Eu nasci em " + (2016 - minhaIdade) );
+</script>
